@@ -1,6 +1,6 @@
 # Travel Journey React App
 
-#Please see the project here: https://charming-sunflower-f94802.netlify.app/
+# Please see the project here: https://charming-sunflower-f94802.netlify.app/
 
 ## About Travel React Project
 
