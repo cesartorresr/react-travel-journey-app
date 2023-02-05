@@ -1,19 +1,6 @@
 # Travel Journey React App
 
-Quick start:
-
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
-
-## Development
-
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
-```
-$ yarn watch # npm run watch
-```
+#Please see the project here: https://charming-sunflower-f94802.netlify.app/
 
 ## About Travel React Project
 
